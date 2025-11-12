@@ -4,8 +4,9 @@ Leveraging signal processing techniques, the system processes raw ECG data to ex
 physiological information. The implementation includes low-pass and high-pass filtering for noise
 reduction, R-wave detection for calculating R-R intervals, and the estimation of heart rate. The
 project demonstrates the effective application of digital signal processing in modern healthcare
-technology.
-**Introduction:** Electrocardiography (ECG) is an essential diagnostic tool in cardiology, capturing
+technology. 
+**Introduction:**
+Electrocardiography (ECG) is an essential diagnostic tool in cardiology, capturing
 electrical activity of the heart to assess its functionality. Heart rate monitoring is a fundamental
 application of ECG analysis, critical in detecting arrhythmias and other cardiovascular anomalies.
 This project aims to design a MATLAB-based system that processes raw ECG signals, filters out
